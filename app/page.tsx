@@ -4,14 +4,12 @@ import Psyduck from "@/components/Psyduck";
 
 export default function Home() {
   return (
-    <main className = "flex flex-col justify-center mx-auto pt-[5vw]">
-      <div className = "flex bg-white">
+    <main className = "flex flex-col justify-center mx-auto pt-[4vw] bg-white">
         <Psyduck />
-      </div>
-      <div className = "flex justify-center pt-[2.57vw]">
+      <div className = "flex justify-center pt-[5.34vh]">
         <GameboyTop />
       </div>
-      <div className = "flex justify-center pt-[0.5vw]">
+      <div className = "flex justify-center pt-[1.2vh]">
         <GameboyBottom />
       </div>
     </main>

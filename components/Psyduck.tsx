@@ -4,7 +4,7 @@ import cleanedPsyduck from "@/components/images/cleanedpsyduck.gif";
 
 const Psyduck = () => {
   return (
-    <div><Image className = "absolute w-10 left-[60vw] group" src = {cleanedPsyduck} alt = "Psyduck" unoptimized></Image></div>
+    <div><Image className = "absolute w-[5vw] left-[58vw] top-[1.7vw] group" src = {cleanedPsyduck} alt = "Psyduck" unoptimized></Image></div>
   )
 }
 
