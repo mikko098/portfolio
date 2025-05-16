@@ -1,6 +1,5 @@
 import React from 'react'
 
-//bg-[#292929] opacity-30
 interface AboutModalProps {
   isOpen: boolean;
   onClose: () => void;
@@ -17,7 +16,7 @@ const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
         </div>
         <div className = 'flex flex-col items-center'>
           <p className='font-(family-name:--font-pixelify) text-[#292929] place-self-center ml-[1vw] mr-[1vw] mt-[1vh]'> hello, i'm mishal. i'm a second year, third sem cs student with a specialisation in data science. </p>
-          <a className= "font-(family-name:--font-pixelify) text-[#292929] ml-[1vw] mr-[1vw]" href = "https://github.com/mikko098/resume/blob/main/Mishal_Mann_Nair_CV.pdf" target='_blank'> click here to see my cv </a>
+          <a className= "font-(family-name:--font-pixelify) text-[#731819] ml-[1vw] mr-[1vw]" href = "https://github.com/mikko098/resume/blob/main/Mishal_Mann_Nair_CV.pdf" target='_blank'> click here to see my cv </a>
         </div>
       </div>
     </div>

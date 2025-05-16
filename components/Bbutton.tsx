@@ -4,7 +4,7 @@ import BButton from "@/components/images/buttonbfigma.png";
 
 const Bbutton = () => {
   return (
-    <Image className = "w-[var(--icon-laptop)]" src = {BButton} alt = "Bbutton" unoptimized></Image>
+    <Image className = "mb-[10vh] mr-[0.5vw] w-[var(--icon-laptop)]" src = {BButton} alt = "Bbutton" unoptimized></Image>
   )
 }
 

@@ -39,7 +39,8 @@
 
 @media (width >= 48rem /* 768px */) {
     :root {
-    --icon-laptop: calc(var(--spacing) * 8) ;
+    --icon-laptop: calc(var(--spacing) * 7) ;
+    --neg-icon-laptop :  calc(var(--spacing) * -7) ;
   }
 }
  
