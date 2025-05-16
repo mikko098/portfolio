@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image';
-import Abutton from "@/components/images/A-button2.png";
+import Abutton from "@/components/images/abutttonfigma.png";
 
 const AButton = () => {
   return (
