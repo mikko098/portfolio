@@ -15,7 +15,7 @@ const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
           <button onClick = {onClose} className='place-self-end font-(family-name:--font-pixelify) mr-[0.5vw] text-[#d9d9d9]'>{"{ x }"}</button>
         </div>
         <div className = 'flex flex-col items-center'>
-          <p className='font-(family-name:--font-pixelify) text-[#292929] place-self-center ml-[1vw] mr-[1vw] mt-[1vh]'> hello, i'm mishal. i'm a second year, third sem cs student with a specialisation in data science. </p>
+          <p className='font-(family-name:--font-pixelify) text-[#292929] place-self-center ml-[1vw] mr-[1vw] mt-[1vh]'> hello, i&apos;m mishal. i&apos;m a second year, third sem cs student with a specialisation in data science. </p>
           <a className= "font-(family-name:--font-pixelify) text-[#731819] ml-[1vw] mr-[1vw]" href = "https://github.com/mikko098/resume/blob/main/Mishal_Mann_Nair_CV.pdf" target='_blank'> click here to see my cv </a>
         </div>
       </div>
