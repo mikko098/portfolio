@@ -1,3 +1,8 @@
+I've been curious about how react projects worked so I decided to make a very barebones glorified linktree looking thing.
+Here's the link to the website : https://mishals-portfolio.vercel.app/
+I will add stuff to this to make it like ok looking on mobile in the future but learning the stuff it took to implement this was more painful than I expected. 
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
